@@ -11,7 +11,8 @@ tags:
   - cache
 inputs:
   - name: FLOW_ENABLE_CACHE
-    description: "是否打开缓存"
+    desc_cn: "是否打开缓存"
+    desc_en: "could open cache"
     editable: true
     options:
       - TRUE=true
