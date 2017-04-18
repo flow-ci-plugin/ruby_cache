@@ -2,9 +2,11 @@
 name: ruby_cache
 version: 0.0.1
 language: ruby
-description: '缓存 gems 安装的依赖包，已有缓存时直接使用缓存，提高构建效率
+description: "缓存 gems 安装的依赖包，已有缓存时直接使用缓存，提高构建效率
+
 - 注意事项
-有时您怀疑持续集成失败是缓存引起的时候，可以禁用缓存，但这会降低您的持续集成速度。'
+
+有时您怀疑持续集成失败是缓存引起的时候，可以禁用缓存，但这会降低您的持续集成速度。"
 public: true
 tags:
   - ruby
